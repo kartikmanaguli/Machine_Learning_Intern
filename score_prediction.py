@@ -38,5 +38,3 @@ plot.title('Aptitute Vs Statistics Grade(Testing)')
 plot.xlabel('Aptitude Score')
 plot.ylabel('Statistics')
 plot.show()
-accuracy=sum(y_test)/sum(y_prediction)
-print("Accuracy of this model is",accuracy*100,'%') #Calculates Accuracy For this Model Accuracy is around 90%
